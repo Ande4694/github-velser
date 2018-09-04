@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Jonathan, anden commit");
 
         System.out.println("Elisha, tredje commit");
+
+        System.out.println("Thomas, fjerde commit");
     }
 }
