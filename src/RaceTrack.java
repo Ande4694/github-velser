@@ -4,4 +4,10 @@ public class RaceTrack {
 
 
     }
+
+    public void thomasMøderTæskeholdet(){
+        System.out.println("AV AV AV");
+        System.out.println("HAVE MERCY");
+
+    }
 }
