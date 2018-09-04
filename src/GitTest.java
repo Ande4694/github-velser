@@ -1,5 +1,8 @@
 public class GitTest {
 
-    String name;
-    String age;
+    public void getName(){
+
+
+    }
+
 }
