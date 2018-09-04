@@ -10,4 +10,10 @@ public class RaceTrack {
         System.out.println("HAVE MERCY");
 
     }
+
+    public void MichealJackson(){
+
+        System.out.println("Thriller");
+        System.out.println("Aaaauuuuhhhhh");
+    }
 }
